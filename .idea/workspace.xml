@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acdbe3d-93da-484b-a3f2-a7a521f577f1" name="变更" comment="提">
+    <list default="true" id="1acdbe3d-93da-484b-a3f2-a7a521f577f1" name="变更" comment="tu">
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/hrml_war.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/hrml_war_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
@@ -92,6 +92,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/templateLanguages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hrml.iml" afterDir="false" />
@@ -269,6 +270,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/js" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -422,7 +424,7 @@
       <workItem from="1645693995929" duration="876000" />
       <workItem from="1645695304388" duration="32039000" />
       <workItem from="1645751156065" duration="10770000" />
-      <workItem from="1645877766992" duration="700000" />
+      <workItem from="1645877766992" duration="2759000" />
     </task>
     <task id="LOCAL-00001" summary="提">
       <created>1645878288086</created>
@@ -440,6 +442,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="4a470dba-f2a1-4aaf-ac98-21f1236f74bc">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -448,7 +475,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -462,6 +489,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提" />
-    <option name="LAST_COMMIT_MESSAGE" value="提" />
+    <MESSAGE value="tu" />
+    <option name="LAST_COMMIT_MESSAGE" value="tu" />
   </component>
 </project>
